@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.toolbar:hover {
+  background: #eee;
+  cursor: pointer;
+}
+
+.canvas {
+  background-color: white;
+  height: 688px;
+  width: 480px;
+}
